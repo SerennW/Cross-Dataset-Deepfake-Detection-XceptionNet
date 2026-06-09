@@ -123,6 +123,16 @@ The model will output:
 
 ---
 
+## Pre-trained Model
+
+The fine-tuned XceptionNet weights are available for download from the [v1.0.0 release](https://github.com/SerennW/Cross-Dataset-Deepfake-Detection-XceptionNet/releases/tag/v1.0.0).
+
+1. Download `more_deepfake_xception.zip` from the release page
+2. Extract it to get `more_deepfake_xception.h5`
+3. Place the `.h5` file in your project root
+
+---
+
 ## Results Summary
 
 | Model              | Test Accuracy | Notes                              |
